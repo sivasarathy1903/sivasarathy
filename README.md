@@ -36,19 +36,20 @@
 ## 🌍 Connect with Me  
 
 <p align="left">
-  <a href="www.linkedin.com/in/sivasarathy-a-b5baa730b" target="_blank">
+  <a href="https://www.linkedin.com/in/sivasarathy-a-b5baa730b" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
   </a>
-  <a href="mailto:sivasarathy2007@gmail.com" target="_blank">
+  <a href="mailto:sivasarathy2007@gmail.com" target="_blank" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Email" width="60" height="60"/>
   </a>
-  <a href="https://leetcode.com/u/Sivasarathy_A/" target="_blank">
+  <a href="https://leetcode.com/u/Sivasarathy_A/" target="_blank" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="60" height="60"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/sivasaradxzd/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="60" height="60"/>
   </a>
 </p>
+
 
 ---
 ✨ _“Learning, building, and sharing my journey in tech.”_
