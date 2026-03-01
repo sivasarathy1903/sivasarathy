@@ -19,8 +19,7 @@
 
 ---
 
-## 🚀 Featured Projects  
-- 🎮 [Number Matching Game](#) *(Python)*  
+## 🚀 Featured Projects   
 - 🐍 [Snake Game](#) *(C with raylib)*  
 - 💰 [Personal Finance Tracker](#) *(Java – Work in Progress)*  
 
