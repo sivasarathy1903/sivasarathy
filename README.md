@@ -45,13 +45,6 @@ A **Java-based finance management application** to track income, expenses, budge
 
 ---
 
-### 🏛️ Crowdsourced Civic Issue Reporting System  
-🔗 https://github.com/Sivasankari1708/Crowdsourced-Civic-Issue-Reporting-and-Resolution-System  
-
-A collaborative platform that allows citizens to **report civic issues, track resolutions, and improve communication between the public and municipal authorities**.  
-
----
-
 ## 🌍 Connect with Me  
 
 <p align="left">
