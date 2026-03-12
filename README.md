@@ -21,10 +21,34 @@
 
 ## 🚀 Featured Projects   
 
-- 🐍 [Snake Game](https://github.com/sivasarathy1903/snake-game-raylib-c) *(C with raylib)*  
-- 💰 [Personal Finance Tracker](https://github.com/sivasarathy1903/personal-finance-tracker) *(Java)*  
-- 🌱 [IFSP Plant Stress Detection System](https://github.com/sivasarathy1903/ifsp-project-management-system) *(AI + Signal Processing Research Project)*  
-- 🏛️ [Crowdsourced Civic Issue Reporting System](https://github.com/Sivasankari1708/Crowdsourced-Civic-Issue-Reporting-and-Resolution-System) *(Collaborative Project)*  
+### 🌱 IFSP Project Management System  
+🔗 https://github.com/sivasarathy1903/ifsp-project-management-system  
+
+📌 **Overview**  
+The **IFSP (Internally Funded Student Project) Management System** is a cloud-based application developed using **Zoho Creator** to digitize and streamline the student project funding process within an academic institution.  
+
+This system automates **proposal submission, budget tracking, milestone monitoring, project risk analysis, and review workflows** through **role-based access control and AI-powered insights**.
+
+---
+
+### 🐍 Snake Game  
+🔗 https://github.com/sivasarathy1903/snake-game-raylib-c  
+
+Interactive **Snake Game developed in C using raylib**, featuring animated UI, sound effects, bombs, pause functionality, and multiple difficulty levels with high-score tracking.
+
+---
+
+### 💰 Personal Finance Tracker  
+🔗 https://github.com/sivasarathy1903/personal-finance-tracker  
+
+A **Java-based finance management application** to track income, expenses, budgets, and financial goals using object-oriented design and file handling for persistent storage.
+
+---
+
+### 🏛️ Crowdsourced Civic Issue Reporting System  
+🔗 https://github.com/Sivasankari1708/Crowdsourced-Civic-Issue-Reporting-and-Resolution-System  
+
+A collaborative platform that allows citizens to **report civic issues, track resolutions, and improve communication between the public and municipal authorities**.  
 
 ---
 
