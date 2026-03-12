@@ -20,12 +20,16 @@
 ---
 
 ## 🚀 Featured Projects   
-- 🐍 [Snake Game](#) *(C with raylib)*  
-- 💰 [Personal Finance Tracker](#) *(Java – Work in Progress)*  
+
+- 🐍 [Snake Game](https://github.com/sivasarathy1903/snake-game-raylib-c) *(C with raylib)*  
+- 💰 [Personal Finance Tracker](https://github.com/sivasarathy1903/personal-finance-tracker) *(Java)*  
+- 🌱 [IFSP Plant Stress Detection System](https://github.com/sivasarathy1903/ifsp-project-management-system) *(AI + Signal Processing Research Project)*  
+- 🏛️ [Crowdsourced Civic Issue Reporting System](https://github.com/Sivasankari1708/Crowdsourced-Civic-Issue-Reporting-and-Resolution-System) *(Collaborative Project)*  
 
 ---
 
 ## 📊 GitHub Stats  
+
 ![Sivasarathy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivasarathy1903&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivasarathy1903&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sivasarathy1903&theme=radical)  
@@ -49,6 +53,6 @@
   </a>
 </p>
 
-
 ---
+
 ✨ _“Learning, building, and sharing my journey in tech.”_
