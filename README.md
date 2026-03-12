@@ -52,14 +52,6 @@ A collaborative platform that allows citizens to **report civic issues, track re
 
 ---
 
-## 📊 GitHub Stats  
-
-![Sivasarathy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivasarathy1903&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivasarathy1903&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sivasarathy1903&theme=radical)  
-
----
-
 ## 🌍 Connect with Me  
 
 <p align="left">
