@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasarathy-a-b5baa730b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sivasarathy1903)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sivasarathy_A/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sivasaradxzd/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivasarathy2007@gmail.com)
 
 </div>
@@ -20,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **2nd-year B.E. Computer Science** student at **SSN College of Engineering, Chennai** — currently building full-stack systems, leading an IoT + AI research project, and exploring the intersection of software and the physical world.
+I'm a **Pre-final year B.E. Computer Science** student at **SSN College of Engineering, Chennai** — currently building full-stack systems, leading an IoT + AI research project, and exploring the intersection of software and the physical world.
 
 - 🏅 **Department Gold Medalist** — 2nd Semester GPA: **9.696**
 - 🔬 **Research Lead** — IoT + AI plant stress detection system (IFSP-funded, ₹20,000)
