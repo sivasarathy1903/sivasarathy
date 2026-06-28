@@ -1,6 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sivasarathy%20A&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20%26%20IoT%20Researcher&descAlignY=58&descSize=16&animation=fadeIn" />
+<!-- HEADER — Pure SVG, no external service, always renders on GitHub -->
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f2027"/>
+      <stop offset="50%" style="stop-color:#203a43"/>
+      <stop offset="100%" style="stop-color:#2c5364"/>
+    </linearGradient>
+    <!-- Wave path at bottom -->
+  </defs>
+  <rect width="860" height="200" fill="url(#bg)" rx="8"/>
+  <!-- Wave shape -->
+  <path d="M0,140 C150,180 300,100 430,140 C560,180 710,110 860,140 L860,200 L0,200 Z" fill="#0d1117" opacity="0.6"/>
+  <!-- Name -->
+  <text x="430" y="85" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">Sivasarathy A</text>
+  <!-- Subtitle -->
+  <text x="430" y="118" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#4FC3F7" text-anchor="middle" letter-spacing="1">Computer Science Engineer · Full-Stack · AI &amp; IoT Researcher</text>
+  <!-- Decorative line -->
+  <line x1="280" y1="128" x2="580" y2="128" stroke="#4FC3F7" stroke-width="1" opacity="0.4"/>
+</svg>
 
 <br/>
 
@@ -20,12 +39,10 @@
 ## 👨‍💻 About Me
 
 <!-- 
-  PROFILE PHOTO — replace the src below with your image URL.
-  Recommended sources:
-    • Upload a photo to your GitHub repo and use the raw link:
-      https://raw.githubusercontent.com/sivasarathy1903/sivasarathy1903/main/profile.jpg
-    • Or use any direct image URL (LinkedIn photo, Google Drive public link, etc.)
-  The width/height control the display size; keep it square for best results.
+  PROFILE PHOTO — replace YOUR_PHOTO_URL_HERE with your image URL.
+  Recommended: Upload a photo to your GitHub profile repo and use the raw link:
+    https://raw.githubusercontent.com/sivasarathy1903/sivasarathy1903/main/profile.jpg
+  Keep the image square for best results with the border-radius styling.
 -->
 <img align="right" width="150" height="150" style="border-radius:50%; margin-left:20px;" src="YOUR_PHOTO_URL_HERE" alt="Sivasarathy A" />
 
@@ -170,8 +187,17 @@ Cloud-based app to digitize academic project funding workflows with 7 modules, 3
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
-
-*"Learning, building, and sharing my journey in tech."*
+<!-- FOOTER — inline SVG, no external dependency -->
+<svg width="860" height="100" viewBox="0 0 860 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2c5364"/>
+      <stop offset="50%" style="stop-color:#203a43"/>
+      <stop offset="100%" style="stop-color:#0f2027"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,30 C150,0 300,60 430,30 C560,0 710,50 860,30 L860,100 L0,100 Z" fill="url(#footerbg)"/>
+  <text x="430" y="78" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#4FC3F7" text-anchor="middle" font-style="italic">"Learning, building, and sharing my journey in tech."</text>
+</svg>
 
 </div>
