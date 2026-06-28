@@ -33,7 +33,7 @@
     https://raw.githubusercontent.com/sivasarathy1903/sivasarathy1903/main/profile.jpg
   Keep the image square for best results with the border-radius styling.
 -->
-<img align="right" width="150" height="150" style="border-radius:50%; margin-left:20px;" src="YOUR_PHOTO_URL_HERE" alt="Sivasarathy A" />
+<img align="right" width="150" height="150" style="border-radius:50%; margin-left:20px;" src="https://drive.google.com/uc?export=view&id=1c9qa8ucGoqlFjDALQe4rItJMba939QfN" alt="Sivasarathy A" />
 
 I'm a **Pre-Final Year B.E. Computer Science** student at **SSN College of Engineering, Chennai** — currently building full-stack systems, leading an IoT + AI research project, and exploring the intersection of software and the physical world.
 
