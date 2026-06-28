@@ -19,7 +19,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Pre-final year B.E. Computer Science** student at **SSN College of Engineering, Chennai** — currently building full-stack systems, leading an IoT + AI research project, and exploring the intersection of software and the physical world.
+<!-- 
+  PROFILE PHOTO — replace the src below with your image URL.
+  Recommended sources:
+    • Upload a photo to your GitHub repo and use the raw link:
+      https://raw.githubusercontent.com/sivasarathy1903/sivasarathy1903/main/profile.jpg
+    • Or use any direct image URL (LinkedIn photo, Google Drive public link, etc.)
+  The width/height control the display size; keep it square for best results.
+-->
+<img align="right" width="150" height="150" style="border-radius:50%; margin-left:20px;" src="YOUR_PHOTO_URL_HERE" alt="Sivasarathy A" />
+
+I'm a **Pre-Final Year B.E. Computer Science** student at **SSN College of Engineering, Chennai** — currently building full-stack systems, leading an IoT + AI research project, and exploring the intersection of software and the physical world.
 
 - 🏅 **Department Gold Medalist** — 2nd Semester GPA: **9.696**
 - 🔬 **Research Lead** — IoT + AI plant stress detection system (IFSP-funded, ₹20,000)
