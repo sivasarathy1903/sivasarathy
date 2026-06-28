@@ -1,94 +1,14 @@
 <div align="center">
 
-<!-- HEADER — Inline SVG with embedded Google Font + animations -->
-<svg width="860" height="220" viewBox="0 0 860 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&amp;family=Montserrat:wght@400;600&amp;display=swap');
-    </style>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f2027"/>
-      <stop offset="50%" style="stop-color:#203a43"/>
-      <stop offset="100%" style="stop-color:#2c5364"/>
-    </linearGradient>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4FC3F7"/>
-      <stop offset="40%" style="stop-color:#ffffff"/>
-      <stop offset="100%" style="stop-color:#4FC3F7">
-        <animate attributeName="offset" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+<!-- BACKGROUND BANNER -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&animation=fadeIn)
 
-  <!-- Background -->
-  <rect width="860" height="220" fill="url(#bg)" rx="8"/>
+<!-- NAME — server-side rendered with Oswald Bold font, guaranteed to work on GitHub -->
+[![Name](https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=60&pause=99999&color=FFFFFF&center=true&vCenter=true&width=860&height=90&lines=SIVASARATHY+A)](https://github.com/sivasarathy1903)
 
-  <!-- Shimmer particles -->
-  <circle cx="80" cy="55" r="1.5" fill="#4FC3F7" opacity="0.5">
-    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="760" cy="65" r="1.5" fill="#4FC3F7" opacity="0.5">
-    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="160" cy="150" r="1" fill="#ffffff" opacity="0.3">
-    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="700" cy="140" r="1" fill="#ffffff" opacity="0.3">
-    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="430" cy="28" r="1.2" fill="#4FC3F7" opacity="0.4">
-    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="2.2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="300" cy="80" r="1" fill="#4FC3F7" opacity="0.3">
-    <animate attributeName="opacity" values="0.1;0.6;0.1" dur="3.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="560" cy="90" r="1" fill="#4FC3F7" opacity="0.3">
-    <animate attributeName="opacity" values="0.6;0.1;0.6" dur="3.2s" repeatCount="indefinite"/>
-  </circle>
+<!-- SUBTITLE -->
+[![Subtitle](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=14&pause=99999&color=4FC3F7&center=true&vCenter=true&width=860&height=30&lines=COMPUTER+SCIENCE+UNDERGRADUATE+·+FULL-STACK+DEVELOPER)](https://github.com/sivasarathy1903)
 
-  <!-- Wave -->
-  <path d="M0,158 C150,198 300,118 430,158 C560,198 710,128 860,158 L860,220 L0,220 Z" fill="#0d1117" opacity="0.55"/>
-
-  <!-- NAME — Raleway 800, 72px, shimmer + glow + fade-in -->
-  <text x="430" y="105"
-    font-family="'Raleway', 'Arial Black', Impact, sans-serif"
-    font-size="72"
-    font-weight="800"
-    fill="url(#nameGrad)"
-    text-anchor="middle"
-    letter-spacing="6"
-    filter="url(#glow)"
-    opacity="0">
-    SIVASARATHY A
-    <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
-  </text>
-
-  <!-- Subtitle — Montserrat 600, spaced caps -->
-  <text x="430" y="142"
-    font-family="'Montserrat', 'Segoe UI', Arial, sans-serif"
-    font-size="13"
-    font-weight="600"
-    fill="#4FC3F7"
-    text-anchor="middle"
-    letter-spacing="3"
-    opacity="0">
-    COMPUTER SCIENCE UNDERGRADUATE  ·  FULL-STACK DEVELOPER
-    <animate attributeName="opacity" values="0;0.85" dur="1.2s" begin="0.7s" fill="freeze"/>
-  </text>
-
-  <!-- Animated underline drawing out from centre -->
-  <line x1="430" y1="152" x2="430" y2="152" stroke="#4FC3F7" stroke-width="1.2" opacity="0.5">
-    <animate attributeName="x1" values="430;220" dur="1s" begin="1.1s" fill="freeze"/>
-    <animate attributeName="x2" values="430;640" dur="1s" begin="1.1s" fill="freeze"/>
-  </line>
-</svg>
 
 <br/>
 
@@ -113,7 +33,7 @@
     https://raw.githubusercontent.com/sivasarathy1903/sivasarathy1903/main/profile.jpg
   Keep the image square for best results with the border-radius styling.
 -->
-<img align="right" width="150" height="150" style="border-radius:50%; margin-left:20px;" src="https://drive.google.com/uc?export=view&id=1c9qa8ucGoqlFjDALQe4rItJMba939QfN" alt="Sivasarathy A" />
+<img align="right" width="150" height="150" style="border-radius:50%; margin-left:20px;" src="YOUR_PHOTO_URL_HERE" alt="Sivasarathy A" />
 
 I'm a **Pre-Final Year B.E. Computer Science** student at **SSN College of Engineering, Chennai** — currently building full-stack systems, leading an IoT + AI research project, and exploring the intersection of software and the physical world.
 
