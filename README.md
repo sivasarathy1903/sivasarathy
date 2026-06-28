@@ -49,7 +49,7 @@
   <!-- Name with shimmer gradient + glow + fade-in -->
   <text x="430" y="96"
     font-family="Georgia, 'Times New Roman', serif"
-    font-size="62"
+    font-size="100"
     font-weight="700"
     fill="url(#nameGrad)"
     text-anchor="middle"
