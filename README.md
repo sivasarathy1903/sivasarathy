@@ -47,34 +47,34 @@
   <path d="M0,145 C150,185 300,105 430,145 C560,185 710,115 860,145 L860,200 L0,200 Z" fill="#0d1117" opacity="0.55"/>
 
   <!-- Name with shimmer gradient + glow + fade-in -->
-  <text x="430" y="88"
-    font-family="'Segoe UI', Arial, sans-serif"
-    font-size="46"
+  <text x="430" y="96"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="62"
     font-weight="700"
     fill="url(#nameGrad)"
     text-anchor="middle"
-    letter-spacing="3"
+    letter-spacing="5"
     filter="url(#glow)">
     Sivasarathy A
     <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
   </text>
 
   <!-- Subtitle fade-in with slight delay -->
-  <text x="430" y="122"
-    font-family="'Segoe UI', Arial, sans-serif"
-    font-size="14"
+  <text x="430" y="130"
+    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+    font-size="13.5"
     fill="#4FC3F7"
     text-anchor="middle"
-    letter-spacing="1.2"
+    letter-spacing="2.5"
     opacity="0">
-    Computer Science Undergraduate · Full-Stack Developer
+    COMPUTER SCIENCE UNDERGRADUATE  ·  FULL-STACK DEVELOPER
     <animate attributeName="opacity" values="0;0.9" dur="1.2s" begin="0.6s" fill="freeze"/>
   </text>
 
   <!-- Decorative animated line -->
-  <line x1="430" y1="133" x2="430" y2="133" stroke="#4FC3F7" stroke-width="1" opacity="0.5">
-    <animate attributeName="x1" values="430;260" dur="1s" begin="1s" fill="freeze"/>
-    <animate attributeName="x2" values="430;600" dur="1s" begin="1s" fill="freeze"/>
+  <line x1="430" y1="141" x2="430" y2="141" stroke="#4FC3F7" stroke-width="1" opacity="0.5">
+    <animate attributeName="x1" values="430;240" dur="1s" begin="1s" fill="freeze"/>
+    <animate attributeName="x2" values="430;620" dur="1s" begin="1s" fill="freeze"/>
   </line>
 </svg>
 
@@ -101,7 +101,7 @@
     https://raw.githubusercontent.com/sivasarathy1903/sivasarathy1903/main/profile.jpg
   Keep the image square for best results with the border-radius styling.
 -->
-<img align="right" width="150" height="150" style="border-radius:50%; margin-left:20px;" src="https://media.licdn.com/dms/image/v2/D5603AQH2OnPipF0tcA/profile-displayphoto-scale_400_400/B56Z5EbCWhGsAg-/0/1779264400827?e=1784160000&v=beta&t=eea6mC8b8nlP1BHk6tcRIZliBC4fcldsXExdV4Ort9c" alt="Sivasarathy A" />
+<img align="right" width="150" height="150" style="border-radius:50%; margin-left:20px;" src="YOUR_PHOTO_URL_HERE" alt="Sivasarathy A" />
 
 I'm a **Pre-Final Year B.E. Computer Science** student at **SSN College of Engineering, Chennai** — currently building full-stack systems, leading an IoT + AI research project, and exploring the intersection of software and the physical world.
 
